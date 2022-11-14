@@ -1,0 +1,35 @@
+{
+    "baseCoin": [
+        {
+            "src": "",
+            "dst": "",
+            "quantity": ""
+        }
+    ],
+    "erc20": [
+        {
+            "contract": "",
+            "transfer": [
+                {
+                    "src": "",
+                    "dst": "",
+                    "quantity": ""
+                }
+            ]
+        }
+    ],
+    "erc721": [
+        {
+            "contract": "",
+            "transfer": [
+                {
+                    "src": "",
+                    "dst": "",
+                    "tokens": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}
